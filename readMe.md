@@ -1,6 +1,6 @@
 # MPESA GOING LIVE
 
-## Prequisite
+## Pre-requisite
 
 * You should create an account on <https://developer.safaricom.co.ke>
 * You should have played with the APIs on the sandbox that you would move on to production with.
